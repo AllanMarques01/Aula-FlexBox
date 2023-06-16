@@ -1,0 +1,31 @@
+*{
+   margin: 0%;
+   padding: 0%;
+   box-sizing: border-box;
+}
+
+main{
+    border: solid rgb(86, 176, 236) 8px;
+}
+
+figure{
+    display:flex
+    justify-content:flex-end ;
+    border:solid;
+    background-color: rgb(255, 232, 26);
+    height: 85vh
+    /*flex-start->
+    center->
+    flex-end ->
+    */
+
+}
+
+img{
+
+}
+
+
+
+
+
